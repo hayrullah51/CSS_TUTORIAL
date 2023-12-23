@@ -1,0 +1,15 @@
+li {
+  text-decoration: line-through;
+  list-style-type: none;
+}
+h1 {
+  text-align: center;
+}
+.first {
+  background-color: yellow;
+}
+.second {
+  background-color: rgb(247, 13, 36);
+  text-decoration: none;
+}
+
